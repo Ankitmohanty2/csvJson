@@ -1,0 +1,4 @@
+﻿"active","address.city","address.street","age","name","notes","nullValue","salary","tags","undefinedValue"
+"true","New York","123, Main St","30","John ""Johnny"" Doe","Multiple
+lines","","50000.5","developer,js",""
+"false","Boston","456 Park Ave","25","Jane Smith","","","60000.75","designer,ui",""
